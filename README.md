@@ -238,6 +238,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Judul playlist | Link playlist | Platform | Pembuat | Catatan |
 | -------------- |-------------- | -------- | ------- | ------- |
 | It's a Dad Thing 2 | [YouTube](https://www.youtube.com/watch?v=hcRoc3gqu-Q&list=OLAK5uy_nzTAQaRiE0CEth1jUAbw1s1bTcO_kgnoY) | Youtube | [saykojigor](https://www.youtube.com/user/saykojigor) | - |
+| Eminem 2020 Playlist - New Songs - Hits - All Songs - Official Videos - Eminem 2021 - 2022 | [YouTube](https://www.youtube.com/playlist?list=PLq3UZa7STrbqLC6WYQaBj026SzLzOoA0U) | Youtube | - | - |
 
 ## Campursari
 
